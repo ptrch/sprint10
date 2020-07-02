@@ -1,5 +1,5 @@
 # sprint10
-## Sprint 10 by practikum
+## Sprint 10 by praktikum
 **Ver 0.0.1**
 
 [Страница проекта](https://ptrch.github.io/sprint10/)
